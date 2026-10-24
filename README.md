@@ -10,6 +10,18 @@ A featherweight **macOS menu bar utility** for using your MacBook upright. One k
 
 ---
 
+## Demo
+
+Real footage of FlipNinja in use, filmed on the actual setup — one keystroke (`Control + Fn + O`) turns the MacBook upright for vertical reading:
+
+<p align="center">
+  <img src="assets/flipninja-demo.gif" width="340" alt="FlipNinja flipping the display to portrait, filmed on camera">
+</p>
+
+<p align="center">
+  <b>▶ Watch the full video (MP4, 6.4 MB):</b> <a href="assets/flipninja-demo.mp4">assets/flipninja-demo.mp4</a> — opens in GitHub's file viewer.
+</p>
+
 ## Features
 
 - **One-Shortcut Flip** — press `Control + Fn + O` anywhere to toggle the main display between `0°` (landscape) and your chosen portrait angle. The keystroke is consumed at the HID event tap, so browsers never see a stray `Control-O`.
